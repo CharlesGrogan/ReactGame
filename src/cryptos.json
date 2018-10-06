@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Bitcoin",
+    "image": "https://picsum.photos/200/200/?44"
+  },
+  {
+    "name": "Litecoin",
+    "image": "https://picsum.photos/200/200/?45"
+  },
+  {
+    "name": "TRON",
+    "image": "https://picsum.photos/200/200/?46"
+  },
+  {
+    "name": "Ethereum",
+    "image": "https://picsum.photos/200/200/?47"
+  },
+  {
+    "name": "XRP",
+    "image": "https://picsum.photos/200/200/?48"
+  },
+  {
+    "name": "IOTA",
+    "image": "https://picsum.photos/200/200/?49"
+  },
+  {
+    "name": "Cardano",
+    "image": "https://picsum.photos/200/200/?50"
+  },
+  {
+    "name": "Fun",
+    "image": "https://picsum.photos/200/200/?51"
+  },
+  {
+    "name": "DogeCoin",
+    "image": "https://picsum.photos/200/200/?52"
+  },
+  {
+    "name": "Qtum",
+    "image": "https://picsum.photos/200/200/?53"
+  },
+  {
+    "name": "DigiByte",
+    "image": "https://picsum.photos/200/200/?54"
+  },
+  {
+    "name": "Decentraland",
+    "image": "https://picsum.photos/200/200/?65"
+  }
+]
